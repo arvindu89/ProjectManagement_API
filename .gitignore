@@ -578,3 +578,10 @@ ProjectManagementAPI.Tests/bin/Debug/EntityFramework.xml
 ProjectManagementAPI.Tests/bin/Debug/EntityFramework.SqlServer.xml
 ProjectManagementAPI.Tests/bin/Debug/EntityFramework.SqlServer.dll
 ProjectManagementAPI.Tests/bin/Debug/EntityFramework.dll
+.vs/ProjectManagementAPI/v16/TestStore/0/testlog.manifest
+.vs/ProjectManagementAPI/v16/TestStore/0/000-0000.testlog
+.vs/ProjectManagementAPI/v16/Server/sqlite3/storage.ide-wal
+.vs/ProjectManagementAPI/v16/Server/sqlite3/storage.ide-shm
+.vs/ProjectManagementAPI/v16/Server/sqlite3/storage.ide
+.vs/ProjectManagementAPI/v16/Server/sqlite3/db.lock
+.vs/ProjectManagementAPI/v16/.suo

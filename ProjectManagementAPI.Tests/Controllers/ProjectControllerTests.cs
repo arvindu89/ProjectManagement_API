@@ -17,7 +17,6 @@ namespace ProjectManagementAPI.Controllers.Tests
         public void SearchProjectTest()
         {
             ProjectController controller = new ProjectController();
-
             controller.Request = new HttpRequestMessage();
             controller.Configuration = new System.Web.Http.HttpConfiguration();
             HttpResponseMessage searchResultResponse = new HttpResponseMessage();

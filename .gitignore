@@ -585,3 +585,9 @@ ProjectManagementAPI.Tests/bin/Debug/EntityFramework.dll
 .vs/ProjectManagementAPI/v16/Server/sqlite3/storage.ide
 .vs/ProjectManagementAPI/v16/Server/sqlite3/db.lock
 .vs/ProjectManagementAPI/v16/.suo
+/.vs/ProjectManagementAPI/v15
+/.vs/ProjectManagement/v15
+/.vs
+/ProjectManagementAPI/obj
+/ProjectManagementAPI/Properties/PublishProfiles
+/ProjectManagementAPI.Tests/obj/Release

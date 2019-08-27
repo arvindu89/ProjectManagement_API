@@ -325,7 +325,11 @@ namespace ProjectManagementAPI.DataAccess
             if (project != null)
             {
                 var user = _entity.Users.Where(s => s.Project_ID == project.Project_ID).FirstOrDefault();
-                user.Project_ID = null;
+
+                if (user != null)
+                {
+                    user.Project_ID = null;
+                }
 
                 var tasks = _entity.Tasks.Where(s => s.Project_ID == project.Project_ID).ToList();
                 foreach(Task task in tasks)

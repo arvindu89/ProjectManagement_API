@@ -54,10 +54,11 @@ namespace ProjectManagementAPI.Controllers.Tests
         {
 
             UserModel userModel = new UserModel();
-            userModel.FirstName = "User 1";
-            userModel.LastName ="LasteName 1 test";
+            userModel.FirstName = "Arvind";
+            userModel.LastName ="Umamaheswar";
             userModel.ProjectID = 1;
-            userModel.UserID = 1;            
+            userModel.UserID = 1;
+            userModel.EmployeeID = "111";
 
             UserController controller = new UserController();
 

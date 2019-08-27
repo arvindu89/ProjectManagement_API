@@ -591,3 +591,7 @@ ProjectManagementAPI.Tests/bin/Debug/EntityFramework.dll
 /ProjectManagementAPI/obj
 /ProjectManagementAPI/Properties/PublishProfiles
 /ProjectManagementAPI.Tests/obj/Release
+/packages
+/ProjectManagementAPI/bin
+/ProjectManagementAPI.NBench/bin
+/ProjectManagementAPI.NBench/obj
